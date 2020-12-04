@@ -1,0 +1,30 @@
+.flex-header {
+    font-size: 1.5em;
+}
+
+table {
+        padding-top: 10px;
+}
+
+th {
+    text-align: start;
+    background-color: orangered;
+    color: white;
+    padding: 5px;
+    height: 30px;
+}
+
+td {
+    text-align: start;
+    height: 20px;
+    padding: 5px;
+    padding-right: 130;
+}
+
+tr:nth-child(add) {
+    background-color: #f2f2f2;
+}
+
+tr:nth-child(even){
+    background-color: #f2f2f2;
+}
